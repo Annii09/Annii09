@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirudh Kushwah</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-
+<img src=https://giant.gfycat.com/FlashyAbandonedAfghanhound.mp4" alt="annii09" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annii09&label=Profile%20views&color=0e75b6&style=flat-square" alt="annii09" /> </p>
 
 - 🔭 I’m currently working on **E-commerce application using microservices with NodeJS and React.**
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects and Problem solving.**
 
-- 👨‍💻 All of my projects are available at <a href = https://www.linkedin.com/in/anirudh-kushwah-67b647158/" target="blank">Linkedin</a>
+- 👨‍💻 All of my projects are available at [Linkedin](https://www.linkedin.com/in/anirudh-kushwah-67b647158/)
 
 - 📫 How to reach me <a href = "mailto: kushwahaanirudda@gmail.com">kushwahaanirudda@gmail.com</a>
 
