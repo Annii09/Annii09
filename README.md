@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anirudh Kushwah</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img src=https://giant.gfycat.com/FlashyAbandonedAfghanhound.mp4" alt="annii09" /> </p>
+<img src="https://cdn.glitch.com/0e4d1ff3-5897-47c5-9711-d026c01539b8%2Fbddfd6e4434f42662b009295c9bab86e.gif?v=1573157191712" alt="this slowpoke moves"  height= "500"  width="2000" alt="404 image"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annii09&label=Profile%20views&color=0e75b6&style=flat-square" alt="annii09" /> </p>
 
 - 🔭 I’m currently working on **E-commerce application using microservices with NodeJS and React.**
